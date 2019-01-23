@@ -1,0 +1,25 @@
+.pic{
+  border-radius: 100%;
+}
+.div4{
+  position:relative;
+  top:10px;
+  margin: auto;
+  text-align: center;
+}
+.list{
+  text-align: center;
+}
+.list{
+  display: inline-block;
+}
+body{
+  background-image: url("http://blog.hostbaby.com/wp-content/uploads/2013/07/diagonal1400x900.jpg");
+}
+#h2{
+  color: black;
+}
+#list{
+  color: black;
+
+}
